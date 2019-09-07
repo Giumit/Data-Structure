@@ -1,2 +1,2 @@
 # Data-Structure
-Data structure algorithm implementation
+Data structure algorithm implementation using c language 
